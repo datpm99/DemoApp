@@ -15,7 +15,7 @@ class LoginView extends StatelessWidget {
     return  Container(
       color: Colors.red,
       child: AutoSizeText(
-        'login'.tr,
+        'logissn'.tr,
         style: Styles.smallText(color: Colors.red),
         maxLines: 2,
       ),
